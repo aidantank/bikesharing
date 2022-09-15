@@ -1,2 +1,4 @@
 # Files to ignore
 .ipynb_checkpoints
+201908-citibike-tripdata-updated.csv
+201908-citibike-tripdata.csv
