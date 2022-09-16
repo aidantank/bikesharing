@@ -56,5 +56,6 @@ To recap, our most common bike renter is a male annual subscriber. They mainly t
 ### Additional Visuals
 The visuals above could never capture the entire picture of citibike rentals in New York City. Below are a couple of ideas for additional visualizations for the August 2019 dataset:
 
-1. 
-2. 
+1. Utilize the birthyear variable to create a bar chart of birthyear and count of records. This way we can see the distribution of records by birthyear to better help understand which age group is renting citibikes the most.
+
+2. Further using the birthyear variable, we can create a new variable for people under/over thirty years old. Then we can plot a heatmap based on trips like we did for slides 6 through 8 on our analysis to see if behavior of renters differs pre and post thirty.
